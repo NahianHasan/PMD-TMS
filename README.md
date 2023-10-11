@@ -12,11 +12,11 @@ Transcranial magnetic stimulation (TMS) is used to study brain function and trea
 
 
 ## Please cite the original paper as well as this repository as follows.
-@software{Hasan_PMD-TMS_2023,
-author = {Hasan, Nahian I. and {PMD-TMS Project}},
-month = oct,
-title = {{PMD-TMS}},
-url = {https://github.com/NahianHasan/PMD-TMS.git},
-version = {0.0.0.1},
-year = {2023}
+@software{Hasan_PMD-TMS_2023,<br />
+author = {Hasan, Nahian I. and {PMD-TMS Project}},<br />
+month = oct,<br />
+title = {{PMD-TMS}},<br />
+url = {https://github.com/NahianHasan/PMD-TMS.git},<br />
+version = {0.0.0.1},<br />
+year = {2023}<br />
 }

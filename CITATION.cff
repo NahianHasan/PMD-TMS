@@ -1,9 +1,12 @@
-@article{gomez2021fast,
-  title={Fast And Accurate Computational E-field Dosimetry for Group-Level Transcranial Magnetic Stimulation Targeting},
-  author={Nahian I. Hasan, Dezhi Wang, Luis Gomez},
-  journal={Neuroimage},
-  volume={},
-  pages={},
-  year={2023},
-  publisher={Elsevier}
-}
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: PMD-TMS
+abstract: Fast And Accurate Computational E-field Dosimetry for Group-Level Transcranial Magnetic Stimulation Targeting
+authors:
+  - family-names: Hasan
+    given-names: Nahian I.
+    orcid: "https://orcid.org/0000-0002-3466-8725"
+  - name: "PMD-TMS Project"
+version: 0.0.0.1
+date-released: "2023-10-11"
+repository-code: "https://github.com/NahianHasan/PMD-TMS.git"

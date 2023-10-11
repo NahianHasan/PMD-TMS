@@ -6,7 +6,8 @@ authors:
   - family-names: Hasan
     given-names: Nahian I.
     orcid: "https://orcid.org/0000-0002-3466-8725"
-  - name: "PMD-TMS Project"
+  - family-names: Gomez
+    given-names: Luis J..
 version: 0.0.0.1
 date-released: "2023-10-11"
 repository-code: "https://github.com/NahianHasan/PMD-TMS.git"

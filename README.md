@@ -12,8 +12,17 @@ Transcranial magnetic stimulation (TMS) is used to study brain function and trea
 
 
 ## Please cite the original paper as well as this repository as follows.
+@article{hasan2023fast,<br />
+  title={Fast And Accurate Population Level Transcranial Magnetic Stimulation via Low-Rank Probabilistic Matrix Decomposition (PMD)},<br />
+  author={Hasan, Nahian Ibn and Wang, Dezhi and Gomez, Luis},<br />
+  journal={bioRxiv},<br />
+  pages={2023--02},<br />
+  year={2023},<br />
+  publisher={Cold Spring Harbor Laboratory}<br />
+}
+<br /><br /><br />
 @software{Hasan_PMD-TMS_2023,<br />
-author = {Hasan, Nahian I. and {PMD-TMS Project}},<br />
+author = {Hasan, Nahian I. and Gomez, Luis},<br />
 month = oct,<br />
 title = {{PMD-TMS}},<br />
 url = {https://github.com/NahianHasan/PMD-TMS.git},<br />
